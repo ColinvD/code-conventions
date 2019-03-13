@@ -1,7 +1,7 @@
 codeconventions
 ===============
 
-#### Ma Game Development
+#### PHNK code conventions
 
 
 #### 1 – Waarom Code conventions
